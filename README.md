@@ -21,8 +21,8 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 ```
 '''
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by : K MADHAVA REDDY
-RegisterNumber : 212223240064  
+Developed by : NARAMALA KUMARTEJA
+RegisterNumber : 212223230132
 '''
 import pandas as pd
 import matplotlib.pyplot as plt
